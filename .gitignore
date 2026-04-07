@@ -1,0 +1,15 @@
+# Binaries
+jwt-peek
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output
+*.out
+
+# Go workspace
+go.work
